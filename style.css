@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width:520px;
+    height:auto;
+    margin: 100px;
+    background-color: #13d3ed;
+    border-radius: 3px;
+    border: 1px solid black;
+
+}
+
+.square{
+    width:100px;
+    margin: 0;
+    display: block;
+   
+}
+.box{
+    width:100px;
+    padding: 5px 20px;
+    margin-left: 20px;
+    display: inline-block;
+
+}
+.container h1{
+    font-size: 40px;
+    text-align: center;
+}
